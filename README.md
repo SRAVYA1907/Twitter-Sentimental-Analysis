@@ -12,3 +12,4 @@ the public . Moreover, the candidates are compared in terms of the sentiment
 type. Textblob package is used toper form simple text classification in either
 positive or negative on the basis of sentiment analysis. totally, a word cloud
 that represents the tweets and most frequently used words is generated.
+
